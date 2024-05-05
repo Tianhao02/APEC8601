@@ -26,7 +26,7 @@ Guidelines and resources for the final project can be found on [Google drive](ht
 
 Detailed steps (for annual water yield, the most complicated) are [here](https://docs.google.com/document/d/1OK_YuBdZs94nQwDBJHKRohzK63UxUu4_/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true)
 
-Other technique details can be found [here] (https://docs.google.com/document/d/1kjZ6cvHZuG1u24r6N-ndJD_f3Be-2PeV/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true)
+Other technique details can be found [here](https://docs.google.com/document/d/1kjZ6cvHZuG1u24r6N-ndJD_f3Be-2PeV/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true)
 
 
 Policy summary for Malaysia government:
