@@ -22,13 +22,13 @@ Find solutions and discussions for specific assignments:
 ### Final Project
 Final project question are [here](https://drive.google.com/drive/folders/1Cbw1azRMdS6LwxHsyXWpB4n4NW1QFWj0?usp=drive_link).
 
-Solutions are [here](https://drive.google.com/file/d/1pzS7Pnd6oO6iJpPOK2YDgrYE_S7nWww7/view?usp=drive_link)
+Solutions are [here](https://drive.google.com/file/d/1pzS7Pnd6oO6iJpPOK2YDgrYE_S7nWww7/view?usp=drive_link).
 
 Guidelines and resources for the final project can be found on [Google drive](https://drive.google.com/drive/folders/1ftcEZUow_luzaUoeou0RmJ9HiwG59wWb?usp=drive_link).
 
-Detailed steps (for annual water yield, the most complicated) are [here](https://docs.google.com/document/d/1OK_YuBdZs94nQwDBJHKRohzK63UxUu4_/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true)
+Detailed steps (for annual water yield, the most complicated) are [here](https://docs.google.com/document/d/1OK_YuBdZs94nQwDBJHKRohzK63UxUu4_/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true).
 
-Other technique details can be found [here](https://docs.google.com/document/d/1kjZ6cvHZuG1u24r6N-ndJD_f3Be-2PeV/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true)
+Other technique details can be found [here](https://docs.google.com/document/d/1kjZ6cvHZuG1u24r6N-ndJD_f3Be-2PeV/edit?usp=drive_link&ouid=106070198571097530731&rtpof=true&sd=true).
 
 
 Policy summary for Malaysia government:
