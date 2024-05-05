@@ -20,7 +20,9 @@ Find solutions and discussions for specific assignments:
 - [Assignment 3](https://github.com/Tianhao02/APEC8601/blob/main/Tianhao_assignment_3.ipynb)
 
 ### Final Project
-Guidelines and resources for the final project can be found [Google drive](https://drive.google.com/drive/folders/1ftcEZUow_luzaUoeou0RmJ9HiwG59wWb?usp=drive_link).
+Final project question are [here](https://drive.google.com/file/d/12HPBwzIZCOGlzuiJCTqO_iazqtId3RzT/view?usp=drive_link)
+
+Guidelines and resources for the final project can be found on [Google drive](https://drive.google.com/drive/folders/1ftcEZUow_luzaUoeou0RmJ9HiwG59wWb?usp=drive_link).
 
 ## Recommended Resources
 Enhance your learning with these additional resources:
